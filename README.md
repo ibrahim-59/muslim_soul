@@ -34,7 +34,6 @@
 - **On-Boarding Screens:** Provide a seamless and engaging introduction to our app.
 - **Home Screen:** The User can discover all tasks that he added before and can change the status to `COMPLETED` or `DELETED`.
 - **Add Task:** User can add task details like `title`, `note`, `date`, `start time`, and `end time`.
-![Your paragraph text (2)](https://github.com/ibrahim-59/muslim_soul/assets/116106936/f67d5c0f-9930-4d66-b40b-97ab44d9dbf0)
 
 <hr>
 <p align= "center">
