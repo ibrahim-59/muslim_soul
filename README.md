@@ -24,16 +24,9 @@
 
 ## 🚀 Getting Started
 
-- Up-To-Do App is designed to help users organize their tasks efficiently and stay productive throughout their day. Whether it's managing daily tasks, work assignments, or personal goals.
-- App notifies the user of the task before starting using `flutter_local_notifications`.
-- Our App reminds users every day at 9 PM ⏰to write tasks for tomorrow.
-
-## 🤳 Screens
-
-- **Splash Screen:** Wait for 3 seconds then navigate to `On-Boarding Screens`. 
-- **On-Boarding Screens:** Provide a seamless and engaging introduction to our app.
-- **Home Screen:** The User can discover all tasks that he added before and can change the status to `COMPLETED` or `DELETED`.
-- **Add Task:** User can add task details like `title`, `note`, `date`, `start time`, and `end time`.
+- You can read each surah and know the interpretation and translation of each verse.
+- You can know the times of the five daily prayers and know the next prayer.
+- The main page contains daily supplications, Zikr and Verse
 
 <hr>
 <p align= "center">
