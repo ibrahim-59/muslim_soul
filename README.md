@@ -46,9 +46,7 @@
 
 ## 📱 UI
 
-![2](https://github.com/AmmarAgeeza/Up-To-Do-App/assets/72443818/bd589d06-bb71-4010-9899-709ead2d9545)
-
-![3](https://github.com/AmmarAgeeza/Up-To-Do-App/assets/72443818/a0583e2a-5a9e-4852-ac85-1bd9ec0d312b)
+![2](https://github.com/ibrahim-59/muslim_soul/assets/116106936/3272dfd9-59b3-44f6-97da-c3a579824d34)
 
 ## 🎥 Video
 
