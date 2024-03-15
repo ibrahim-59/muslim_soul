@@ -48,27 +48,43 @@
 
 ![2](https://github.com/ibrahim-59/muslim_soul/assets/116106936/3272dfd9-59b3-44f6-97da-c3a579824d34)
 
-## 🎥 Video
-
-https://github.com/AmmarAgeeza/Up-To-Do-App/assets/72443818/47054951-596b-4fe5-9eff-03abf357f8fe
 
 ## 🛠 Dependencies
 
 ```pubspec.yaml
-  date_picker_timeline: 
-  flutter_bloc: 
-  flutter_screenutil: 
-  fluttertoast: 
-  get_it: 
-  google_fonts: 
-  intl: 
+  go_router: 
+  svg_flutter: 
+  flutter_localizations:
   shared_preferences: 
-  smooth_page_indicator: 
-  sqflite: 
+  flutter_bloc: 
+  iconly: 
+  percent_indicator: 
+  share_plus: 
+  geolocator: 
+  geocoding: 
+  dio: 
+  intl: 
   flutter_local_notifications: 
-  timezone: 
+  timezone:
   flutter_timezone: 
+  fluttertoast:
+  hive:
+  hive_flutter:
+  scroll_to_index: 
+  lottie: 
+  get_it: 
   workmanager: 
+  audio_video_progress_bar: 
+  just_audio: 
+  rxdart: 
+  uuid: ^4.3.3
+  animate_do:  
+  flutter_spinkit: 
+  hijri: 
+  connectivity_listener: 
+  flutter_email_sender: 
+  url_launcher: 
+  internet_connectivity_checker: 
 ```
 
 ## ☢️ Usage
