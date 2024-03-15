@@ -24,9 +24,11 @@
 
 ## 🚀 Getting Started
 
-- You can read each surah and know the interpretation and translation of each verse.
-- You can know the times of the five daily prayers and know the next prayer.
-- The main page contains daily supplications, Zikr and Verse
+- Quran recitation: The app provides the Quran to be read or listened to, with options for different reciters
+- Dua of the day: The application features a daily supplication (dua) for users to recite.
+- Radio: A radio service that plays beautiful recitations of the Quran by renowned reciters.
+- Prayer times: The app offers prayer times based on the user's local timezone.
+- Islamic content: The application includes various Islamic materials, such as Surahs (chapters) of the Quran, Hadiths, and Duas.
 
 <hr>
 <p align= "center">
