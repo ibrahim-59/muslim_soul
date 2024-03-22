@@ -4,7 +4,7 @@
      <a href="https://api.visitorbadge.io/api/visitors?path=muslim_soul&label=People%20who%20visited%20this%20page&countColor=%23263759" target="_blank">
         <img src="https://api.visitorbadge.io/api/visitors?path=muslim_soul&label=People%20who%20visited%20this%20page&countColor=%23263759" target="_blank" />
     </a>
-    <a href="https://www.linkedin.com/in/ibrahim-abdullah-ab6659215/" target="_blank">
+    <a href="https://www.linkedin.com/posts/ibrahim-abdullah-ab6659215_animations-android-ios-activity-7174371851974885376-0Yqv?utm_source=share&utm_medium=member_desktop" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
     </a>
   <a href="mailto:hemaabdullah6@gmail.com">
